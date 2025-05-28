@@ -8,3 +8,6 @@ Use the mtcars.csv dataset to create a predictive linear model using `mpg` as a 
 - mtcars.csv <- Data used for the model
 - requirments.txt <- the packages and versions required for our docker image
 - server.py <- Flask API App
+- Example.md <- Example on how to run the model locally
+- docker-compose.yml 
+- Docker file
